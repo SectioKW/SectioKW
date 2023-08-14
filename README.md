@@ -1,4 +1,12 @@
-### Hi there 👋
+Heya there! I'm Sectio an AI Developer 🔭
+==
+About me
+
+- 🤖 Artificial Intelegence and Machine Learning Developer
+- 🧮 Undergraduate Mathematics Student
+- 💬 Fluent in English and Indonesian [🇮🇩] , Currently learning Japanese [🇯🇵] and Deutsch [🇩🇪]
+
+
 
 <!--
 **SectioKW/SectioKW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
