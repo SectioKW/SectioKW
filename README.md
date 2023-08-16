@@ -1,4 +1,4 @@
-# Heya there! **[I'm Sectio Krisna Wijaya](https://github.com/SectioKW)**! an AI Developer <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> 
+# Heya there! I'm **[Sectio Krisna Wijaya](https://github.com/SectioKW)**! an AI Developer <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> 
 ---
 ## About me 🔭
 
