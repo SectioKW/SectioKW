@@ -1,6 +1,6 @@
-### Heya there! I'm Sectio an AI Developer 🔭
-
-About me
+# Heya there! **[I'm Sectio Krisna Wijaya](https://github.com/SectioKW)**! an AI Developer <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> 
+---
+## About me 🔭
 
 - 🤖 **Artificial Intelegence** and **Machine Learning** Developer
 - 🧮 Undergraduate **Mathematics** Student
