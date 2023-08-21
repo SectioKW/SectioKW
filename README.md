@@ -2,8 +2,8 @@
 ---
 ## About me 🔭
 
-- 🤖 **Artificial Intelegence** and **Machine Learning** Developer
-- 🧮 Undergraduate **Mathematics** Student
+- 🤖 **Artificial Intelegence** and **Machine Learning** Developer.
+- 🧮 Undergraduate **Mathematics** Student.
 - 💬 Fluent in English and Indonesian [🇮🇩] , Currently learning Japanese [🇯🇵] and Deutsch [🇩🇪]
 
 <p align="left">
