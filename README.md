@@ -4,7 +4,7 @@
 
 - 🤖 **Artificial Intelegence** and **Machine Learning** Developer.
 - 🧮 Undergraduate **Mathematics** Student.
-- 💬 Fluent in English and Indonesian [🇮🇩] , Currently learning Japanese [🇯🇵] and Deutsch [🇩🇪].
+- 💬 Fluent in English and Indonesian [🇮🇩], Currently learning Japanese [🇯🇵] and Deutsch [🇩🇪].
 
 <p align="left">
 <a href="https://github.com/SectioKW">
