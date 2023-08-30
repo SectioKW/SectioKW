@@ -7,6 +7,7 @@
 - 💬 Fluent in English and Indonesian [🇮🇩], Currently learning Japanese [🇯🇵] and Deutsch [🇩🇪].
 
 
+
 <p align="left">
 <a href="https://github.com/SectioKW">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SectioKW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
